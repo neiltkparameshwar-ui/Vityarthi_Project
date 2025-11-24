@@ -1,24 +1,24 @@
 # Vityarthi_Project
-Project title: AIR TICKET RESERVATION
+# Project title: AIR TICKET RESERVATION
 
-Overview of the project: The main objective of the python project on Air ticket reservation is to manage the details of booking, payments, seats, and flights.
+# Overview of the project: The main objective of the python project on Air ticket reservation is to manage the details of booking, payments, seats, and flights.
                           The project is totally built at administrative end and only administrator is guaranteed the access. 
                           The purpose of the project is to build an application program to reduce the manual work for managing the booking, discounts,  seats, and payments. 
                           It tracks all the details about seats,  flight, and payments; it also prints various reports as per input given by the 
 
-Features: 1.	All the fields such as flight  payments discounts are validated and does not take invalid values.
+# Features: 1.	All the fields such as flight  payments discounts are validated and does not take invalid values.
           2.	Each form of sales, discounts, bookings cannot accept the blank values.
           3.	Avoiding errors in data.
           4.	Controlling amount of input.
 
-Technologies/tools used: Python 3.x for the entire project, VS Code integrated, DBMS, Modular programming with multiple .py files for separation of concerns, Standard Python data structures                                      (dictionaries, lists) for in-memory storage
+# Technologies/tools used: Python 3.x for the entire project, VS Code integrated, DBMS, Modular programming with multiple .py files for separation of concerns, Standard Python data structures                                      (dictionaries, lists) for in-memory storage
 
-Steps to install and run the project: 1.Clone or download the repository to your local computer.
+# Steps to install and run the project: 1.Clone or download the repository to your local computer.
                                       2.Ensure Python 3.13.7 and later version is installed. (Test with python --version)
                                       3.Ensure DBMS app such as mysql is installed 
                                       4.Navigate to the project directory in a terminal.
 
-Insturctions for testing: 1. Environment Check
+# Insturctions for testing: 1. Environment Check
                             Ensure XAMPP/WAMP or MySQL server is running.
                             
 Ensure you have installed the library: pip install mysql-connector-python or pip install pandas.
